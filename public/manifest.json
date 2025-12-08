@@ -1,0 +1,21 @@
+{
+  "name": "MyIBDCompass",
+  "short_name": "MyIBDCompass",
+  "description": "Track IBD symptoms, identify trigger foods, and get personalized insights. Built by gastroenterologists for better IBD management through nutrition.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4F46E5",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
