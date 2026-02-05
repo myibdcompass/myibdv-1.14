@@ -144,7 +144,7 @@ export default function LandingPage() {
                 <path strokeLinecap="round" strokeLinejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
               <div className="flex flex-col items-start leading-none">
-                <span className="text-[10px] font-medium text-foreground/70">Coming January 2026</span>
+                <span className="text-[10px] font-medium text-foreground/70">Coming March 2026</span>
                 <span className="text-sm font-bold text-foreground">Join Waitlist</span>
               </div>
             </button>
@@ -197,7 +197,7 @@ export default function LandingPage() {
                     <path strokeLinecap="round" strokeLinejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
                   <div className="flex flex-col items-start leading-none">
-                    <span className="text-[10px] opacity-90">Coming January 2026</span>
+                    <span className="text-[10px] opacity-90">Coming March 2026</span>
                     <span className="text-sm font-semibold">Join Waitlist</span>
                   </div>
                 </button>
@@ -236,7 +236,7 @@ export default function LandingPage() {
                   <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-accent opacity-75"></span>
                   <span className="relative inline-flex rounded-full h-full w-full bg-accent"></span>
                 </span>
-                <span className="font-medium">Coming to App Store & Google Play in January 2026</span>
+                <span className="font-medium">Coming to App Store & Google Play in March 2026</span>
               </p>
             </div>
           </div>
@@ -259,7 +259,7 @@ export default function LandingPage() {
                   <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-accent opacity-75"></span>
                   <span className="relative inline-flex rounded-full h-full w-full bg-accent"></span>
                 </span>
-                <span className="font-medium">Coming to App Store & Google Play in January 2026</span>
+                <span className="font-medium">Coming to App Store & Google Play in March 2026</span>
               </p>
             </div>
             
@@ -794,7 +794,7 @@ export default function LandingPage() {
                     <path strokeLinecap="round" strokeLinejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
                   <div className="flex flex-col items-start leading-none">
-                    <span className="text-xs font-medium opacity-80">Coming January 2026</span>
+                    <span className="text-xs font-medium opacity-80">Coming March 2026</span>
                     <span className="text-lg font-bold">Join Waitlist</span>
                   </div>
                   <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-1" />
